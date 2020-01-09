@@ -1,16 +1,17 @@
 ; Generating Characters.ipt
 
 //variables
-var Fighting
-var Agility
-var Strength
-var Endurance
-var Reason
-var Psyche
+var Fighting = 
+var Agility = 
+var Strength = 
+var Endurance = 
+var Reason = 
+var Intuition = 
+var Psyche = 
 var Health = {Fighting} + {Agility} + {Strength} + {Endurance}
-var Karma
-var Resources
-var Popularity
+var Karma = {Reason} + {Intuition} + {Psyche}
+var Resources = 
+var Popularity = 
 
 
 Table: Origin
@@ -163,4 +164,28 @@ Roll: 1d100
 71-80: Incredible (36)
 81-95: Amazing (46)
 96-100: Monstrous (63)
+EndTable:
+
+Table: Powers
+roll: 1d100
+01-20: 2/4
+21-60: 3/4
+61-90: 4/4
+91-100: 5/5
+EndTable:
+
+Table: Talents
+roll: 1d100
+01-20: 1/6
+21-60: 2/5
+61-90: 3/4
+91-100: 4/4
+EndTable:
+
+Table: Contacts
+roll: 1d100
+01-20: 0/4
+21-60: 1/4
+61-90: 2/4
+91-100: 3/4
 EndTable:
