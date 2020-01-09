@@ -1,0 +1,10 @@
+; Generating Characters.ipt
+
+Table: Origin
+Roll: 1d100
+01-30: Altered Human
+31-60: Mutant
+61-90: Hi-Tech
+91-95: Robot
+96-100: Alien
+EndTable:
