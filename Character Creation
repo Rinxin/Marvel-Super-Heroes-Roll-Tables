@@ -353,3 +353,133 @@ Healing
 Immortality*
 EndTable:
 
+Table: Talents
+Roll: 1d100
+01-20: Weapon Skills
+21-45: Fighting Skills
+46-65: Professional Skills
+66-85: Scientific Skills
+86-90: Mystic and Mental Skills
+91-100: Other Skills
+EndTable:
+
+Table: Weapon Skills
+1-2. Guns
+3-5. Thrown Weapons
+6. Bows
+7-8. Blunt Weapons
+9. Sharp Weapons
+10. Oriental Weapons
+Marksman*
+Weapons Master*
+Weapons Specialist*
+EndTable:
+
+Table: Fighting
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9-10.
+Skills
+Martial Arts A
+Martial Arts B
+Martial Arts C
+Martial Arts D
+Martial Arts E
+Wrestling
+Thrown Objects
+Tumbling
+Acrobatics
+EndTable:
+
+Table: Professional Skills
+1. Medicine*
+2. [Law|Law-Enforcement]
+3.Pilot
+4.Military
+5.Business/Finance
+6.Journalism
+7.Engineering
+8.Crime
+9.Psychiatry
+10 Detective/Espionage
+EndTable:
+
+Table: Scientific Skills
+1-2. Chemistry
+3-4. Biology
+5-6. Geology
+7. Genetics
+8. Archeology
+9. [Physics|Computers]
+10.Electronics
+EndTable:
+
+Table: Mystical and Mental Skills or Abilities
+1-2. Trance
+3-5. Mesmerism and Hypnosis
+6-7. Sleight of Hand
+8-9. [Resist Domination|Mystic Origin*]
+10. Occult Lore
+EndTable:
+
+Table: Other Skills
+1-2. Artist
+3-4. Languages
+5-6. First Aid
+7-8. Repair/Tinkering
+9-10. [Trivia|Performer|Animal Training*|Heir to Fortune*|Student*|Leadership*]
+Endtable:
+
+Table: Contacts
+[@Contacts - Professional]
+[@Contacts - Scientific]
+[@Contacts - Political]
+[@Contacts - Mystic]
+EndTable:
+
+Table: Contacts - Professional
+Medicine
+Law
+Law-Enforcement
+Military
+Business World
+Journalism
+Crime
+Engineering
+Psychiatry
+Detective/Espionage
+Hero Group
+Artist/Performer
+EndTable:
+
+Table: Contacts - Scientific
+Chemistry
+Biology
+Geology
+Genetics
+Archeology
+Physics
+Computers
+Electronics
+EndTable:
+
+Table: Contacts - Political
+Local
+State
+National
+Other National
+International
+Planetary
+EndTable:
+
+Table: Contacts - Mystic
+Religion
+Occult Lore
+Mythology
+EndTable:
