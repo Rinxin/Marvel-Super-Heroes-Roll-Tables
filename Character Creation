@@ -91,17 +91,14 @@ Roll: 1d100
 51-60: Technical Procedure: The hero was the subject of a controlled scientific or magical experiment. Assuming that all the factors are reproduced, such a Technical Experiment should be “able to produce a steady supply of super-powered heroes. Unfortunately, the geniuses behind such experiments often leave inadequate notes; if something happens to the genius, the experiment is irreproducible. Dr. Reinstein, for example, never really wrote down the Super-Soldier Formula that transformed Steve Rogers into Captain America. Attempts to recreate it produced the Infinity Formula that has the simpler effect of increasing the subject's Health, Endurance, and lifespan.
 61-65: Creation: The hero was born in the form he now has, that of an adult who possesses Power and/or whatever the Body Type is. Most of the Artificial Body Types belong in this class. Examples include the android Human Torch, all robots, angels, demons, and deities.
 66-76: Biological Exposure: The hero gained Power after exposure to a special lifeform or a substance secreted by that lifeform. Werewolves and Bio-Vampires are common examples of this. Normal Humans are transformed into those kinds of beings after being bitten by another Werewolf or Bio-Vampire. The hero can also gain Power from an experiment using bio-chemicals. For example, the late Whizzer gained his Power after consecutive injections of cobra venom and mongoose blood.
-77-87: Chemical Exposure: The hero was
-transformed by exposure to an exotic
-element, compound, or mixture. This
-substance can be inhaled, ingested, injected, or just placed next to the hero for it to affect him. The chemicals involved in these incidents react in random ways with the hero's genetic structure and produce unique results. If another person is exposed to the same chemical, the results may be different or fatal. Madcap is an example of this.
-88-98: Energy Exposure: 
-99-100: Rebirth: 
+77-87: Chemical Exposure: The hero was transformed by exposure to an exotic element, compound, or mixture. This substance can be inhaled, ingested, injected, or just placed next to the hero for it to affect him. The chemicals involved in these incidents react in random ways with the hero's genetic structure and produce unique results. If another person is exposed to the same chemical, the results may be different or fatal. Madcap is an example of this.
+88-98: Energy Exposure: The hero was exposed to a special form and Intensity of energy— anything out of the ordinary will do—and turned into his present self. Most of the Marvel Super Heroes from the early 1960s are examples of this. The Fantastic Four, the Hulk, and Daredevil, for examples, all received Powers after being subjected to hard radiation.
+99-100: Rebirth: The hero was once a perfectly ordinary person. Then he died. Something happened to him that destroyed his old body and gave him a new one, complete with Power. Examples of this class include Marc Spector/Moon Knight and Arthur Douglas/Drax the Destroyer.
 EndTable:
 
 ***************
 
-Table: Primary Ability Scores - Mutants, Altered Humans
+Table: Primary Ability Scores - Column 1
 Roll: 1d100
 01-05: Feeble (1)
 06-10: Poor (3)
@@ -113,7 +110,7 @@ Roll: 1d100
 97-100: Amazing (46)
 EndTable:
 
-Table: Primary Ability Scores - Normal Folks
+Table: Primary Ability Scores - Column 2
 Roll: 1d100
 01-05: Feeble (1)
 06-25: Poor (3)
@@ -122,7 +119,7 @@ Roll: 1d100
 96-100: Excellent (16)
 EndTable:
 
-Table: Primary Ability Scores - High Technology
+Table: Primary Ability Scores - Column 3
 Roll: 1d100
 01-05: Feeble (1)
 06-10: Poor (3)
@@ -132,7 +129,7 @@ Roll: 1d100
 96-100: Remarkable (26)
 EndTable:
 
-Table: Primary Ability Scores - Robots
+Table: Primary Ability Scores - Column 4
 Roll: 1d100
 01-05: Feeble (1)
 06-10: Poor (3)
@@ -145,7 +142,7 @@ Roll: 1d100
 99-100: Monstrous (63)
 EndTable:
 
-Table: Primary Ability Scores - Aliens
+Table: Primary Ability Scores - Column 5
 Roll: 1d100
 01-10: Feeble (1)
 11-20: Poor (3)
