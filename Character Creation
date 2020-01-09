@@ -110,65 +110,57 @@ encountered before.
 
 Table: Primary Ability Scores - Mutants, Altered Humans
 Roll: 1d100
-Feeble (1)
-Poor (3)
-Typical (5)
-Good (8)
-Excellent (16)
-Remarkable (26)
-Incredible (36)
-Amazing (46)
-Monstrous (63)
+01-05: Feeble (1)
+06-10: Poor (3)
+11-20: Typical (5)
+21-40: Good (8)
+41-60: Excellent (16)
+61-80: Remarkable (26)
+81-96: Incredible (36)
+97-100: Amazing (46)
 EndTable:
 
 Table: Primary Ability Scores - Normal Folks
 Roll: 1d100
-Feeble (1)
-Poor (3)
-Typical (5)
-Good (8)
-Excellent (16)
-Remarkable (26)
-Incredible (36)
-Amazing (46)
-Monstrous (63)
+01-05: Feeble (1)
+06-25: Poor (3)
+26-75: Typical (5)
+78-95: Good (8)
+96-100: Excellent (16)
 EndTable:
 
 Table: Primary Ability Scores - High Technology
 Roll: 1d100
-Feeble (1)
-Poor (3)
-Typical (5)
-Good (8)
-Excellent (16)
-Remarkable (26)
-Incredible (36)
-Amazing (46)
-Monstrous (63)
+01-05: Feeble (1)
+06-10: Poor (3)
+11-40: Typical (5)
+41-80: Good (8)
+81-95: Excellent (16)
+96-100: Remarkable (26)
 EndTable:
 
 Table: Primary Ability Scores - Robots
 Roll: 1d100
-Feeble (1)
-Poor (3)
-Typical (5)
-Good (8)
-Excellent (16)
-Remarkable (26)
-Incredible (36)
-Amazing (46)
-Monstrous (63)
+01-05: Feeble (1)
+06-10: Poor (3)
+11-15: Typical (5)
+16-40: Good (8)
+41-50: Excellent (16)
+51-70: Remarkable (26)
+71-90: Incredible (36)
+91-98: Amazing (46)
+99-100: Monstrous (63)
 EndTable:
 
 Table: Primary Ability Scores - Aliens
 Roll: 1d100
-Feeble (1)
-Poor (3)
-Typical (5)
-Good (8)
-Excellent (16)
-Remarkable (26)
-Incredible (36)
-Amazing (46)
-Monstrous (63)
+01-10: Feeble (1)
+11-20: Poor (3)
+21-30: Typical (5)
+31-40: Good (8)
+41-60: Excellent (16)
+61-70: Remarkable (26)
+71-80: Incredible (36)
+81-95: Amazing (46)
+96-100: Monstrous (63)
 EndTable:
