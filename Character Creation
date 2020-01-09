@@ -13,7 +13,61 @@ var Karma = {Reason} + {Intuition} + {Psyche}
 var Resources = 
 var Popularity = 
 
+*******
+Table: Physical Form
+01-26: Normal Human: The body is completely normal and possesses no detectable abnormalities. Any Powers the hero possesses have left no visible mark on the body. Random ranks are rolled on Column 2 of the Random Ranks Table, page 6 of the Player’s Book and reproduced in this text for your convenience. Resources are increased +1CS.
+26-30: Mutant (Induced) The hero started life as a Normal Human, "then something happened." As a result of a freak happenstance, the hero has been physically and genetically altered. The Fantastic Four are examples of this type. Induced Mutants roll their random ranks for Primary Abilities on Column 1 of the Random Ranks Table. Induced Mutants can raise any one Primary Ability +1CS.
+31-33: Mutant (Random)
+34-35: Mutant (Breed)
+36-38: Android
+39-46: Humanoid Race
+47: Surgical Composite
+48-49: Modified Human (Organic)
+50-51: Modified Human (Muscular)
+52-53: Modified Human (Skeletal)
+54-57: Modified Human (Extra Prats)
+58: Demihuman (Centuar)
+59: Demihuman (Equiman)
+60: Demihuman (Faun)
+61-62: Demihuman (Felinoid)
+63-64: Demihuman (Lupinoid)
+65-66: Demihuman (Avian)
+67: Demihuman (Chiropteran)
+68: Demihuman (Lamian)
+69: Demihuman (Merhuman)
+70: Demihuman (Other)
+71-72: Cyborg (Artifical limbs/organs)
+73-74: Cyborg (Exoskeleton)
+75-76: Cyborg (Mechanical Body)
+77-79: Cyborg (Mechanically Augmented)
+80-82: Robot (Human Shape)
+83-84: Robot (Usuform)
+85-86: Robot (Metamorphic)
+87: Robot (Computer)
+88: Angel/Demon
+89: Deity
+90: Animal
+91: Vegetable
+92: Abnormal Chemistry
+93: Mineral
+94: Gaseous
+95: Liquid
+96: Energy
+97: Ethereal
+98: Undead
+99: Compund
+00: Changeling
 
+
+
+
+
+
+
+
+
+
+*********
 Table: Origin
 Roll: 1d100
 01-30: Altered Human
